@@ -1,2 +1,1 @@
-# this is branch a changed file.
-#
+# this is a confilct file
